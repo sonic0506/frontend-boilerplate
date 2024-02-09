@@ -28,4 +28,4 @@ FrontEnd 개발 생태계에서 많이 사용되는 기술들의 boilerplate 프
 
 <img src="https://img.shields.io/badge/next-%23121011?style=for-the-badge"><a href="/next-cna/README.md"><img src="https://img.shields.io/badge/ceate next app-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
 
-<img src="https://img.shields.io/badge/gatsby-%23121011?style=for-the-badge"><a><img src="https://img.shields.io/badge/gatsby-623194?style=for-the-badge&logo=gatsby&logoColor=white"></a>
+<img src="https://img.shields.io/badge/gatsby-%23121011?style=for-the-badge"><a href="/gatsby/README.md"><img src="https://img.shields.io/badge/gatsby-623194?style=for-the-badge&logo=gatsby&logoColor=white"></a>
