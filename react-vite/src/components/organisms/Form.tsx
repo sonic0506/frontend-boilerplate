@@ -1,6 +1,6 @@
-import Button from "@components/atoms/Button";
-import Input from "@components/atoms/Input";
-import InputWithButton from "@components/molecules/InputWithButton";
+import Button from '@components/atoms/Button';
+import Input from '@components/atoms/Input';
+import InputWithButton from '@components/molecules/InputWithButton';
 
 export default function Form() {
   return (

@@ -1,5 +1,5 @@
-import Button, { ButtonProps } from "@components/atoms/Button";
-import Input, { InputProps } from "@components/atoms/Input";
+import Button, { ButtonProps } from '@components/atoms/Button';
+import Input, { InputProps } from '@components/atoms/Input';
 
 export interface InputWithButtonProps {
   inputProps?: InputProps;
@@ -13,7 +13,7 @@ export default function InputWithButton({
   buttonProps,
 }: InputWithButtonProps) {
   return (
-    <div>
+    <div className="flex gap-4">
       <Input {...inputProps} />
       <Button {...buttonProps}>{children}</Button>
     </div>

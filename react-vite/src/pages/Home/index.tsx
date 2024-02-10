@@ -1,8 +1,8 @@
-import Form from "@components/organisms/Form";
+import Form from '@components/organisms/Form';
 
 export default function HomePage() {
   return (
-    <section>
+    <section className="bg-red-400">
       <Form />
     </section>
   );
